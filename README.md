@@ -155,7 +155,7 @@ Challenge your friends in MULTIPLAYER mode!
 
 ## Tools
 
- * [botan](http://botan.io/) – The most advanced analytics for your Telegram bot.
+ * [botan](https://botanio.github.io/sdk/) – The most advanced analytics for your Telegram bot.
  * [shell2telegram](https://github.com/msoap/shell2telegram) - Telegram bot constructor from command-line.
  * [telegram-send](https://github.com/rahiel/telegram-send) - Send messages and files over Telegram from the command-line.
 
